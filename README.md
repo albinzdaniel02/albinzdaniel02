@@ -6,7 +6,7 @@ I'm an aspiring Web and App Developer...
 
 👩‍💻 I'm currently working on Web Development
 
-🧠 I'm currently learning DJango
+🧠 I'm currently learning Java
 
 👯‍♀️ I'm looking to collaborate on Web Projects
 
